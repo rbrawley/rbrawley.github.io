@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I work part time as an automotive technician while also attending school part time.  I don't have much free time between those, so what time I do have is spent enjoying myself however I can.  My hobbies include enjoying anime, reading, and baking. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
