@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Database for Books and Games]([/sample_page](https://github.com/rbrawley/Database))
 
 
 ---
