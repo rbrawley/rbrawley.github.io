@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Database for Books and Games]([/sample_page](https://github.com/rbrawley/Database))
+<img src="images/Database.jpg?raw=true"/>
 
 ---
 [Placeholder](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[PlaceHoldre2](http://example.com/)
+[PlaceHolder2](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
