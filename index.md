@@ -19,7 +19,7 @@
 
 ### Project Plans
 
-- [Dice Roller for TTRPG and Wargaming)
+- Dice Roller for TTRPG and Wargaming
 
 
 ---
