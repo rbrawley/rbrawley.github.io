@@ -8,7 +8,7 @@
 <img src="images/Database.jpg?raw=true"/>
 
 ---
-[Forcast (WIP)]([/pdf/sample_presentation.pdf](https://github.com/rbrawley/Forcastdoc))
+[Forcast (WIP)](https://github.com/rbrawley/Forcastdoc)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
