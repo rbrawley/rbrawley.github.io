@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Webpages 
 
 [Database for Books and Games]([/sample_page](https://github.com/rbrawley/Database))
 <img src="images/Database.jpg?raw=true"/>
 
 ---
-[Placeholder](/pdf/sample_presentation.pdf)
+[Forcast (WIP)]([/pdf/sample_presentation.pdf](https://github.com/rbrawley/Forcastdoc))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Project Plans
 
-- [Database for Books and Games]([/sample_page](https://github.com/rbrawley/Database))
+- [Dice Roller for TTRPG and Wargaming)
 
 
 ---
